@@ -1,0 +1,12 @@
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local exports and credentials
+*.csv
+*.xlsx
+.env
+*.pem
+*.key
